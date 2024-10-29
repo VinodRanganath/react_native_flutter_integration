@@ -1,0 +1,26 @@
+# ninja log v5
+3	1314	1730092780646273416	CMakeFiles/appmodules.dir/OnLoad.cpp.o	257f665194b0d38
+3	1038	1730092780371013797	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/NativeFlutterModuleSpec-generated.cpp.o	e36efa813eeb699b
+1314	1370	1730092780703653936	/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/build/intermediates/cxx/Debug/x2xuz3w3/obj/x86_64/libappmodules.so	860c39b09c864cc9
+4	716	1730092780049814647	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/States.cpp.o	6042c880dc58de0b
+7	32	1730093225801246373	build.ninja	1c02b3bb547b1c15
+0	4	0	clean	33cc1aa9fa0595c0
+3	777	1730092780111670310	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/EventEmitters.cpp.o	b402ad62effe9494
+3	969	1730092780300755447	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/NativeFlutterModuleSpecJSI-generated.cpp.o	9bcbfd403cac3de5
+4	985	1730092780318832591	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/ShadowNodes.cpp.o	70b4dd3748316c7
+3	1062	1730092780396155449	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/ComponentDescriptors.cpp.o	676f66de19302bd8
+0	6	0	/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/.cxx/Debug/x2xuz3w3/x86_64/CMakeFiles/cmake.verify_globs	62d434c477313d13
+3	1069	1730092780403241331	CMakeFiles/appmodules.dir/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ca927da4601044d6
+3	1042	1730092780375206662	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/Props.cpp.o	99e6cb5534e4eb99
+0	7	0	/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/.cxx/Debug/x2xuz3w3/x86_64/CMakeFiles/cmake.verify_globs	62d434c477313d13
+4	868	1730093226697492811	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/States.cpp.o	6042c880dc58de0b
+3	951	1730093226779897905	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/EventEmitters.cpp.o	b402ad62effe9494
+3	1149	1730093226976745178	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/ShadowNodes.cpp.o	70b4dd3748316c7
+3	1223	1730093227050561676	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/NativeFlutterModuleSpecJSI-generated.cpp.o	9bcbfd403cac3de5
+2	1247	1730093227075308974	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/ComponentDescriptors.cpp.o	676f66de19302bd8
+2	1252	1730093227078655592	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/NativeFlutterModuleSpec-generated.cpp.o	e36efa813eeb699b
+2	1289	1730093227117790684	CMakeFiles/appmodules.dir/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ca927da4601044d6
+3	1292	1730093227120395090	codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir/react/renderer/components/NativeFlutterModuleSpec/Props.cpp.o	99e6cb5534e4eb99
+2	1578	1730093227404603617	CMakeFiles/appmodules.dir/OnLoad.cpp.o	257f665194b0d38
+1578	1639	1730093227467367481	/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/build/intermediates/cxx/Debug/x2xuz3w3/obj/x86_64/libappmodules.so	860c39b09c864cc9
+1	8	0	/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/.cxx/Debug/x2xuz3w3/x86_64/CMakeFiles/cmake.verify_globs	62d434c477313d13

@@ -1,0 +1,6 @@
+/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/.cxx/Debug/x2xuz3w3/x86_64/CMakeFiles/appmodules.dir
+/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/.cxx/Debug/x2xuz3w3/x86_64/CMakeFiles/edit_cache.dir
+/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/.cxx/Debug/x2xuz3w3/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/.cxx/Debug/x2xuz3w3/x86_64/codegen_app_build/CMakeFiles/react_codegen_NativeFlutterModuleSpec.dir
+/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/.cxx/Debug/x2xuz3w3/x86_64/codegen_app_build/CMakeFiles/edit_cache.dir
+/Users/vinodranganathp/dev/react/FlutterIntegration/android/app/.cxx/Debug/x2xuz3w3/x86_64/codegen_app_build/CMakeFiles/rebuild_cache.dir
