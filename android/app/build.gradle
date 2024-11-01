@@ -121,7 +121,7 @@ dependencies {
 
 repositories {
     maven {
-        url '/Users/vinodranganathp/dev/flutterflow/hello_world/build/host/outputs/repo'
+        url '/Users/vinodranganathp/dev/flutterflow/hello_world_module/build/host/outputs/repo'
     }
     maven {
         url "https://storage.googleapis.com/download.flutter.io"
