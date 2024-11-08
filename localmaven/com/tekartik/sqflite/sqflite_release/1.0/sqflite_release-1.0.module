@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.tekartik.sqflite",
+    "module": "sqflite_release",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-db49896cf25ceabc44096d5f088d86414e05a7aa"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqflite_release-1.0.aar",
+          "url": "sqflite_release-1.0.aar",
+          "size": 46148,
+          "sha512": "dbab3754dea14ebf1af5b93d4778ae0529685c7f3638e4e1c70e54a9278e165c44a3bbab1f60f9e52ed008d2266e937a790b63a44ccf140aff49287356f5f6b2",
+          "sha256": "95afe4f292e12fbf441e1e224578a9a573ba655f47441d825670bd8337863f7f",
+          "sha1": "2ac5f2cdd3ad97637b4638499a4d2a78f12c89bd",
+          "md5": "d1f3e028d800797e8a3feb9a144deaf0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "io.flutter",
+          "module": "flutter_embedding_release",
+          "version": {
+            "requires": "1.0.0-db49896cf25ceabc44096d5f088d86414e05a7aa"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "sqflite_release-1.0.aar",
+          "url": "sqflite_release-1.0.aar",
+          "size": 46148,
+          "sha512": "dbab3754dea14ebf1af5b93d4778ae0529685c7f3638e4e1c70e54a9278e165c44a3bbab1f60f9e52ed008d2266e937a790b63a44ccf140aff49287356f5f6b2",
+          "sha256": "95afe4f292e12fbf441e1e224578a9a573ba655f47441d825670bd8337863f7f",
+          "sha1": "2ac5f2cdd3ad97637b4638499a4d2a78f12c89bd",
+          "md5": "d1f3e028d800797e8a3feb9a144deaf0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sqflite_release-1.0-sources.jar",
+          "url": "sqflite_release-1.0-sources.jar",
+          "size": 24249,
+          "sha512": "f661be3a31628d624d322c8aa5d3df3a042219962b33c8a2078d5834dc25749920725a1647cab761dd76278d7c2446f5d9b5a19bc74975890fc8aa79358f3543",
+          "sha256": "4953a47775841291822ef90d0d99a320d3640a85b4e8d486bde8b053fca2463e",
+          "sha1": "4c0656916a293ec9e970ef94b467ad55a396b0de",
+          "md5": "32d38611ba5721aa84e0a8880fcc9ba6"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "sqflite_release-1.0-javadoc.jar",
+          "url": "sqflite_release-1.0-javadoc.jar",
+          "size": 343931,
+          "sha512": "20df7fef4e1e348b7d1b1434cac196f253efdd46efc5b9d84b4f9a2e8f0f3959529ee31f24f150b7144accba65d3aab90440eb3cdb2f233908f90b056edca268",
+          "sha256": "e11a449e73389f69b8f29f778a0106a40875da1ff2512ba86c13f0af72505331",
+          "sha1": "62c1391ac287fc6ed365caa6e61b1b8a8742392b",
+          "md5": "760d309c5fa0541242f12b246958893b"
+        }
+      ]
+    }
+  ]
+}

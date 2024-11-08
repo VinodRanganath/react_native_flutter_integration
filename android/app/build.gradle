@@ -110,7 +110,7 @@ android {
 dependencies {
     // The version of react-native is set by the React Native Gradle Plugin
     implementation("com.facebook.react:react-android")
-    implementation('com.mycompany.helloworld:flutter_release:1.0')
+    implementation('com.vr.helloworldmodule:flutter_release:1.0')
 
     if (hermesEnabled.toBoolean()) {
         implementation("com.facebook.react:hermes-android")
@@ -121,7 +121,7 @@ dependencies {
 
 repositories {
     maven {
-        url '/Users/vinodranganathp/dev/flutterflow/hello_world_module/build/host/outputs/repo'
+        url '../../localmaven'
     }
     maven {
         url "https://storage.googleapis.com/download.flutter.io"
